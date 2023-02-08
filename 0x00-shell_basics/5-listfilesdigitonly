@@ -1,2 +1,2 @@
 #!/bin/bash
- ls -aflag
+ ls -l -n -a
