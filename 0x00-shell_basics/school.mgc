@@ -1,2 +1,2 @@
 #!/bin/bash
-file -m /path/to/school.mgc <file>
+file -m 0x00-shell_basics school.mgc
