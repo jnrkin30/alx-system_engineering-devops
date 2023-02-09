@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A | sort -t . -k 1.2,1 | tr '\n' ',' | sed 's/,$/\n/'
+./, ../, 103-commas, file0.c, file1.c, folder0/, folder1/
